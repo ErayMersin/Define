@@ -1,0 +1,6 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Define\Define\Kaynak.c(16,29): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Define\Define\Kaynak.c(22,34): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Define\Define\Kaynak.c(28,24): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Define\Define\Kaynak.c(35,30): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Define.vcxproj -> C:\Users\eray\source\repos\Define\x64\Debug\Define.exe
